@@ -49,12 +49,12 @@ wtf:
     feedreader:
       enabled: true
       feeds:
-      - http://wtfutil.com/blog/index.xml
+      - http://heise.de/developer/rss/news-atom.xml
       feedLimit: 10
       position:
         top: 1
         left: 1
-        width: 2
+        width: 3
         height: 1
       refreshInterval: 14400
     ipinfo:
